@@ -1,0 +1,28 @@
+﻿@model List<UI.Models.SectionModel>
+@{ 
+    string[] colors = {"danger","warning","info","success","dark" };
+}
+<button class="btn btn-@colors[ViewBag.ColorCode] btn-block" type="button" data-toggle="collapse" data-target="#collapse-@ViewBag.CourseCode" aria-expanded="false" aria-controls="collapse-@ViewBag.CourseCode" style="padding: .1rem .5rem; margin-bottom: 0rem;">
+    @ViewBag.CourseCodename-@ViewBag.CourseName
+</button>
+<div class="collapse" id="collapse-@ViewBag.CourseCode">
+    <div class="card card-body">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                    <div class="form-check">
+                        <input class="form-check-input sectionCheckbox" type="checkbox" name="check-@item.course" id="@item.course-@item.sectionId" value="@item.course@item.sectionId">
+                        <label class="form-check-label" for="@item.course-@item.sectionId">
+                            @item.instructor <br />
+                            @foreach (var itemDate in item.dateinfo)
+                            {
+                                <span>@itemDate.day @itemDate.start @itemDate.end @itemDate.place</span><br>
+                            }
+                        </label>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

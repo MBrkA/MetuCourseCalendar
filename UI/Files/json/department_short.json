@@ -1,0 +1,254 @@
+[
+  {
+    "id": "459",
+    "name": "BED"
+  },
+  {
+    "id": "573",
+    "name": "FDE"
+  },
+  {
+    "id": "312",
+    "name": "BA"
+  },
+  {
+    "id": "311",
+    "name": "ECON"
+  },
+  {
+    "id": "310",
+    "name": "ADM"
+  },
+  {
+    "id": "454",
+    "name": "EDS"
+  },
+  {
+    "id": "316",
+    "name": "BAS"
+  },
+  {
+    "id": "315",
+    "name": "GIA"
+  },
+  {
+    "id": "314",
+    "name": "IR"
+  },
+  {
+    "id": "238",
+    "name": "BIOL"
+  },
+  {
+    "id": "234",
+    "name": "CHEM"
+  },
+  {
+    "id": "236",
+    "name": "MATH"
+  },
+  {
+    "id": "230",
+    "name": "PHYS"
+  },
+  {
+    "id": "232",
+    "name": "SOC"
+  },
+  {
+    "id": "233",
+    "name": "PSY"
+  },
+  {
+    "id": "797",
+    "name": "EEE"
+  },
+  {
+    "id": "791",
+    "name": "AUTO"
+  },
+  {
+    "id": "356",
+    "name": "EEE"
+  },
+  {
+    "id": "453",
+    "name": "PES"
+  },
+  {
+    "id": "799",
+    "name": "ENOT"
+  },
+  {
+    "id": "798",
+    "name": "ENEL"
+  },
+  {
+    "id": "450",
+    "name": "FLE"
+  },
+  {
+    "id": "572",
+    "name": "AEE"
+  },
+  {
+    "id": "366",
+    "name": "EFL"
+  },
+  {
+    "id": "367",
+    "name": "CHME"
+  },
+  {
+    "id": "364",
+    "name": "CVE"
+  },
+  {
+    "id": "365",
+    "name": "MECH"
+  },
+  {
+    "id": "571",
+    "name": "CENG"
+  },
+  {
+    "id": "352",
+    "name": "ECO"
+  },
+  {
+    "id": "568",
+    "name": "IE"
+  },
+  {
+    "id": "569",
+    "name": "ME"
+  },
+  {
+    "id": "570",
+    "name": "METE"
+  },
+  {
+    "id": "351",
+    "name": "BUSD"
+  },
+  {
+    "id": "560",
+    "name": "ENVE"
+  },
+  {
+    "id": "561",
+    "name": "ES"
+  },
+  {
+    "id": "562",
+    "name": "CE"
+  },
+  {
+    "id": "563",
+    "name": "CHE"
+  },
+  {
+    "id": "564",
+    "name": "GEOE"
+  },
+  {
+    "id": "565",
+    "name": "MINE"
+  },
+  {
+    "id": "566",
+    "name": "PETE"
+  },
+  {
+    "id": "567",
+    "name": "EE"
+  },
+  {
+    "id": "120",
+    "name": "ARCH"
+  },
+  {
+    "id": "421",
+    "name": "PHED"
+  },
+  {
+    "id": "246",
+    "name": "STAT"
+  },
+  {
+    "id": "241",
+    "name": "PHIL"
+  },
+  {
+    "id": "125",
+    "name": "ID"
+  },
+  {
+    "id": "219",
+    "name": "GENE"
+  },
+  {
+    "id": "422",
+    "name": "CHED"
+  },
+  {
+    "id": "121",
+    "name": "CRP"
+  },
+  {
+    "id": "451",
+    "name": "TEFL"
+  },
+  {
+    "id": "378",
+    "name": "GPC"
+  },
+  {
+    "id": "355",
+    "name": "CNG"
+  },
+  {
+    "id": "354",
+    "name": "PSIR"
+  },
+  {
+    "id": "353",
+    "name": "BUS"
+  },
+  {
+    "id": "411",
+    "name": "ECE"
+  },
+  {
+    "id": "412",
+    "name": "ESE"
+  },
+  {
+    "id": "413",
+    "name": "EME"
+  },
+  {
+    "id": "371",
+    "name": "PSYC"
+  },
+  {
+    "id": "384",
+    "name": "ASE"
+  },
+  {
+    "id": "376",
+    "name": "CTE"
+  },
+  {
+    "id": "374",
+    "name": "PNGE"
+  },
+  {
+    "id": "430",
+    "name": "CEIT"
+  },
+  {
+    "id": "240",
+    "name": "HIST"
+  }
+]
