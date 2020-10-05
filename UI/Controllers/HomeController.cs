@@ -38,35 +38,10 @@ namespace UI.Controllers
                 _sectionList = JsonConvert.DeserializeObject<List<SectionModel>>(srS.ReadToEnd());
             }
         }
+
         public ActionResult Index()
         {
             return View();
-        }
-
-        public ActionResult Department()
-        {
-            return View(_departmentList);
-        }
-
-        public ActionResult Course()
-        {
-            return View(_courseList);
-        }
-
-        public ActionResult Section()
-        {
-            return View(_sectionList);
-        }
-
-        public ActionResult System()
-        {
-            return View();
-        }
-
-        public ActionResult RefreshData()
-        {
-            _webmetu.SetCourseCodename();
-            return RedirectToAction("Index");
         }
 
         public ActionResult PartialAddCourse(int id)
